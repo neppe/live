@@ -1,5 +1,5 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with ASCIItoSVG -->
+<!-- Created with TXTtoSVG -->
 <svg width="1359px" height="512px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <filter id="dsFilter" width="150%" height="150%">
@@ -27,7 +27,7 @@
   </g>
   <g id="lines" stroke="#000" stroke-width="2" fill="none">
   </g>
-  <g id="text" stroke="none" style="font-family:monospace;font-size:15.2px" >
+  <g id="text" stroke="none" style="font-family:courier;font-size:15.2px" >
     <text id="obj0" x="40.5" y="40" fill="#000">1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111</text>
     <text id="obj1" x="22.5" y="56" fill="#000">10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001</text>
     <text id="obj2" x="22.5" y="72" fill="#000">000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001</text>
